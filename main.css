@@ -1,10 +1,10 @@
 body{
     /*Margen predeterminado de las paginas web*/
-    margin: 0s;
+    margin: 0;
     /*Margen pa dentro*/
     padding: 0;
     /*tamaño de fuente*/
-    font-size: 15px;
+    font-size: 10px;
     /*fuente de texto*/
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -188,7 +188,7 @@ footer ul.footer-left {
     font-size: 15px;
     padding: 15px;
     margin-right: 620px;
-    background-color: aqua;
+    background-color: #ecedee;
     
 }
 
@@ -209,7 +209,7 @@ footer ul.footer-right {
     list-style: none;
     font-size: 15px;
     padding: 15px;
-    background-color: aqua;
+    background-color: #ecedee;
     
     
 }
